@@ -1,1 +1,1 @@
-# GCP-DEMO-1
+# GCP-DEMO
